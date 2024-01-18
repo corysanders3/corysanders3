@@ -1,3 +1,5 @@
+![Cory Sanders](https://github.com/corysanders3/corysanders3/assets/41808895/3387dfb7-fdc6-4650-bb8e-f1b1754acc0d)
+
 ### Hi there 👋
 
 <!--
