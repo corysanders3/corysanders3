@@ -9,9 +9,9 @@ My name is Cory and I am a Front End Software Engineer. I decided to jump into t
 <br>
 <h2>Tech Stack</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-E8D44D?style=for-the-badge&logo=javascript&logoColor=fff" alt="javascript badge">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" alt="react badge">
   <img src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=for-the-badge" alt="router badge">
+  <img src="https://img.shields.io/badge/JavaScript-E8D44D?style=for-the-badge&logo=javascript&logoColor=fff" alt="javascript badge">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="html badge">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="css badge">
   <img src="https://img.shields.io/badge/SCSS-C56494?style=for-the-badge&logo=sass&logoColor=fff" alt="scss badge">
@@ -24,5 +24,6 @@ My name is Cory and I am a Front End Software Engineer. I decided to jump into t
 <br>
 <h2>Currently Learning</h2>
 <div align="center">
-  <img src="https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=fff" alt="javascript badge">
+  <img src="https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=fff" alt="typescript badge">
+  <img src="https://img.shields.io/badge/threejs-000?style=for-the-badge&logo=three.js&logoColor=fff" alt="three js badge"
 </div>
